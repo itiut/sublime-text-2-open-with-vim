@@ -13,6 +13,6 @@ Installation
 Usage
 -----
 
-add the following to `User/Default (OSX).sublime-keymap`:
+add the following to `User/Default (Linux).sublime-keymap`:
 
     { "keys": ["ctrl+shift+alt+i"], "command": "open_with_vim" }
